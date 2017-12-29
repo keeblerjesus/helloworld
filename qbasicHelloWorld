@@ -1,0 +1,10 @@
+rem this is the first file first printing circa december 2017 . . . I've been intending on doing this since 2014 I think
+rem this is my hello world for quickbasic since this was my first coding language back in 1995
+rem rem tags are the commentary tags if that isn't clear
+1 cls
+rem this command stands for clear screen if i recall correctly
+2 print "hello world"
+rem pretty sure the quotes are necessary
+3
+rem leaving a space for if I find out there is an acceptable exit code ?
+rem I should probably include an "exit y/n" but that is a future edition. "fork" ?
