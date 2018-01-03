@@ -1,0 +1,11 @@
+10
+
+
+
+fizzbuzz$ = fizzbuzz$ + 1
+
+rem if fizzbuzz = 3 then print fizz
+rem if fizzbuzz = 5 then print buzz
+
+
+if fizzbuzz$ < 100 then goto 10
